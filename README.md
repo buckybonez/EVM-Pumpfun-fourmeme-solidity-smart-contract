@@ -80,4 +80,4 @@ PRs, issues, and feature suggestions are welcome! Feel free to fork, build, and 
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-💬 **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
+💬 **Telegram**: [@BuckyBonez](https://t.me/buckybonez)
